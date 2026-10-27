@@ -13,4 +13,4 @@ La base utilizada es `zona_fit`, con la tabla `clientes`. La base y sus datos se
 
 `config.local.json` queda excluido de Git. No publiques tus credenciales.
 
-El menú actual administra clientes en memoria; su integración con MySQL está pendiente.
+Ejecuta `python main.py` para listar, agregar, modificar y eliminar clientes en MySQL.
